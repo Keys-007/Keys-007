@@ -8,7 +8,7 @@ Generally Fork And Try  My Luck.
 
 ## Programming Languages:
 
-- Languages I Know: Just Python :snake:(That To Not Much.)
+- Languages I Know: Just Python :snake:(That To As Less As None.)
  
 
 ## Reach Me Out At :- 
