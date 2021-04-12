@@ -25,6 +25,6 @@ Generally Fork And Try  My Luck.
 
 
 ## Git Stats⚡️:
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=Keys-007&show_icons=true&theme=radical)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=Keys-007&show_icons=true&theme=neon)
 
 ![Profile views](https://gpvc.arturio.dev/Keys-007)
